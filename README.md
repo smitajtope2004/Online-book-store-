@@ -1,4 +1,5 @@
 📚 Online Book Store – SQL Database Project
+
 Project Description
 
 The Online Book Store SQL Project is a relational database system developed to manage books, customers, and order transactions for an online bookstore.
